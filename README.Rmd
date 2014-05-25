@@ -253,7 +253,7 @@ Tidy Data Details
 
  - totalbodyaccelerometermeanx  
  - totalbodyaccelerometermeany  
- - totalbodyaccelerometermeanz  
+ - totalbodyaccelerometermeanz	
  - totalgravityaccelerometeraccelerometermeanx	
  - totalgravityaccelerometeraccelerometermeany	
  - totalgravityaccelerometeraccelerometermeanz	
